@@ -1,2 +1,7 @@
 # Q-learning-algorithm
-This is a simple implementation of Q-learning algorithm to solve a maze problem.
+A simple implementation of Q-learning algorithm to solve a maze problem.
+
+## Description
+
+<img src="grid.jpg">
+
